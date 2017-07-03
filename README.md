@@ -9,4 +9,5 @@ Play with Recurrent Neural Networks
 * [CS231n Winter 2016: Lecture 10](https://www.youtube.com/watch?v=yCC09vCHzF8)
 * [Sequence Models and the RNN Tensorflow API](https://www.youtube.com/watch?v=RIR_-Xlbp7s)
 * [LSTM Neural Networks for Time Series Prediction](https://www.youtube.com/watch?v=2np77NOdnwk)
+* [CS224 Lecture 8: Recurrent Neural Networks and Language Models](https://www.youtube.com/watch?v=Keqep_PKrY8)
 
