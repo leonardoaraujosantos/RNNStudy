@@ -10,4 +10,6 @@ Play with Recurrent Neural Networks
 * [Sequence Models and the RNN Tensorflow API](https://www.youtube.com/watch?v=RIR_-Xlbp7s)
 * [LSTM Neural Networks for Time Series Prediction](https://www.youtube.com/watch?v=2np77NOdnwk)
 * [CS224 Lecture 8: Recurrent Neural Networks and Language Models](https://www.youtube.com/watch?v=Keqep_PKrY8)
+* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [Anyone Can Learn To Code an LSTM-RNN in Python](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 
