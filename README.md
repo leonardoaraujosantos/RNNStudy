@@ -12,4 +12,5 @@ Play with Recurrent Neural Networks
 * [CS224 Lecture 8: Recurrent Neural Networks and Language Models](https://www.youtube.com/watch?v=Keqep_PKrY8)
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Anyone Can Learn To Code an LSTM-RNN in Python](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
+* [Python Neural Nets repository](https://github.com/jameslyons/python-neural-nets)
 
