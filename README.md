@@ -4,6 +4,7 @@ Play with Recurrent Neural Networks
 ### References
 * [Karpathy RNN blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Karpathy RNN gist](https://gist.github.com/karpathy/d4dee566867f8291f086)
+* [More nice examples on pure python](https://github.com/janivanecky/Numpy-RNNs)
 * [Recurrent Neural Networks Yoshua Bengio](https://www.youtube.com/watch?v=xK-bzjIQkmM)
 * [An Introduction to LSTMs in Tensorflow](https://www.youtube.com/watch?v=l4X-kZjl1gs)
 * [CS231n Winter 2016: Lecture 10](https://www.youtube.com/watch?v=yCC09vCHzF8)
