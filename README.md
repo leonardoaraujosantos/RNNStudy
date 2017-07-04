@@ -13,4 +13,5 @@ Play with Recurrent Neural Networks
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Anyone Can Learn To Code an LSTM-RNN in Python](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 * [Python Neural Nets repository](https://github.com/jameslyons/python-neural-nets)
+* [Minimal GRU implementation Python/Numpy](https://github.com/DoctorTeeth/gru)
 
