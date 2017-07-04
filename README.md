@@ -15,4 +15,6 @@ Play with Recurrent Neural Networks
 * [Anyone Can Learn To Code an LSTM-RNN in Python](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 * [Python Neural Nets repository](https://github.com/jameslyons/python-neural-nets)
 * [Minimal GRU implementation Python/Numpy](https://github.com/DoctorTeeth/gru)
+* [Speech Recognition: You down with CTC](https://gab41.lab41.org/speech-recognition-you-down-with-ctc-8d3b558943f0)
+* [CTC (Speech) with Theano](https://blog.wtf.sg/2014/10/06/connectionist-temporal-classification-ctc-with-theano/)
 
